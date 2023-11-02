@@ -16,5 +16,5 @@ if __name__ == "__main__":
 
     else:
         print("{} argument:".format(size))
-         print("{}: {}".format(size, arg[1]))
+        print("{}: {}".format(size, arg[1]))
 
