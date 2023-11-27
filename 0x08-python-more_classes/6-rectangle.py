@@ -1,6 +1,6 @@
 6-rectangle.py
 #!/usr/bin/python3
-"" can define a Rectangle class."""
+"""can define a Rectangle class."""
 
 
 class Rectangle:
